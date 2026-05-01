@@ -1,0 +1,92 @@
+/* Create three equal columns that floats next to each other */
+.column {
+    box-sizing: border-box;
+    float: center;
+    width: 33.33%;
+    padding: 10px;
+  }
+  
+  /* Clear floats after the columns */
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+  
+
+  /* For program table */
+
+  span[id] {
+    display: inline; /* Ensure the span is inline */
+    margin: 0;       /* Remove any extra margin */
+    padding: 0;      /* Remove any extra padding */
+  }
+
+  table a {
+    color: inherit; /* Inherit the color from the parent element */
+    text-decoration: none; /* Optional: Remove underline if needed */
+  }
+  table tr {
+    height: 12px;
+    border-top: none;
+  }
+  table tr th, table tr td {
+    padding: 0.25rem 0.25rem 0.25rem 0.25rem;
+    border-left: none; 
+    border-right: none; 
+    border-top: none; 
+    border-bottom: 0.5px solid #efefef;; 
+  }
+
+  table td, th{
+      background-color: #ffffff;
+      text-align: left;
+      color: #000000;
+      vertical-align: top;
+      direction: ltr;
+      background-color: #ffffff;
+      font-size: 0.8rem;
+  }
+  .s1, .s0 {
+    text-align: center;
+    font-weight: bold;
+    color: #999999;
+  }
+  .s0 { /* Days */
+    font-size: 1.rem;
+    font-family: var(--header-font)
+  }
+  .s1 { /* hh:mm */
+    font-size: 0.7rem;
+    padding: 0;
+  }
+  .s3 { /* Invited talks */
+    background-color: #c9daf8;
+  }
+  .s4 { /* Keynotes */
+    background-color: #e6b8af;
+  }
+  .s5 { /* Orals */
+    background-color: #d9ead3;
+  }
+  .s6 { /* Breaks and Lunches */
+    text-align: center;
+    color: #999999; 
+  }
+  .s7 { /* Poster sessions */
+    background-color: #fce5cd; 
+  }
+  .s8 { /* Workshop */
+    background-color: #efefef;
+  }
+  .s9 { /* Extras */
+    background-color: #ead1dc;
+  }
+
+  .session-chair {
+    font-weight: normal;
+    font-family: 'Lora', 'Times New Roman', serif;
+    font-size: 1.125rem;        
+    padding-top: 0.5em;    /* Adjust as needed */
+    display: inline-block; /* Ensures padding is respected */
+}
