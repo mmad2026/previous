@@ -91,25 +91,25 @@ Travel grants for early-stage researchers are available. Deadline: Dec 31st, 202
   <div class="collapse navbar-collapse" id="main-navbar">
     <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="/previous/registration">Registration</a>
+            <a class="nav-link" href="registration">Registration</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="previous/travelgrants">Travel grants</a>
+            <a class="nav-link" href="travelgrants">Travel grants</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="/program">Program</a>
+            <a class="nav-link" href="program">Program</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="/speakers">Speakers</a>
+            <a class="nav-link" href="speakers">Speakers</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="/venue">Venue</a>
+            <a class="nav-link" href="venue">Venue</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="/organization">Organization</a>
+            <a class="nav-link" href="organization">Organization</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="/sponsors">Sponsors</a>
+            <a class="nav-link" href="sponsors">Sponsors</a>
           </li></ul>
   </div>
 
