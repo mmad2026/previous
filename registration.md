@@ -91,10 +91,10 @@ Travel grants for early-stage researchers are available. Deadline: Dec 31st, 202
   <div class="collapse navbar-collapse" id="main-navbar">
     <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="/registration">Registration</a>
+            <a class="nav-link" href="/previous/registration">Registration</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="/travelgrants">Travel grants</a>
+            <a class="nav-link" href="previous/travelgrants">Travel grants</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="/program">Program</a>
@@ -123,6 +123,11 @@ Travel grants for early-stage researchers are available. Deadline: Dec 31st, 202
 
 <main class=" container-md ">
 
+<h1>Registration</h1>
+
+Registration is closed.
+
+Travel grants for early-stage researchers are <a href="travelgrants">available</a>. Deadline: Dec 31st, 2025.
 
 </main>
 
@@ -176,8 +181,3 @@ Travel grants for early-stage researchers are available. Deadline: Dec 31st, 202
 </body>
 </html>
 
-<h1>Registration</h1>
-
-Registration is closed.
-
-Travel grants for early-stage researchers are <a href="travelgrants">available</a>. Deadline: Dec 31st, 2025.
